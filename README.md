@@ -111,7 +111,7 @@ const ahmed = {
 <br>React Query
 </td>
 <td align="center" width="96">
-<img src="[https://cdn.worldvectorlogo.com/logos/framer-motion.svg](https://cdn.worldvectorlogo.com/logos/framer-motion.svg)" width="48" height="48" alt="Framer Motion" />
+<img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="48" height="48" alt="Framer Motion" />
 <br>Framer Motion
 </td>
 </tr>
