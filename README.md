@@ -167,13 +167,6 @@ const ahmed = {
 👯 **Contributing** to open source projects  
 ⚡ **Available** for exciting frontend opportunities
 
----
-
-[![GitHub Stats](https://cdn.worldvectorlogo.com/logos/github-icon-1.svg)](https://github.com/ahmedmoham89ed)
-
-[![GitHub Streak](https://cdn.worldvectorlogo.com/logos/github-2.svg](https://github.com/ahmedmoham89ed)
-
----
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
