@@ -1,3 +1,4 @@
+<div align="center">
 
 # 👋 Welcome to My Digital Workshop
 
@@ -7,8 +8,10 @@
 
 *Crafting Beautiful Digital Experiences with Code*
 
-[![Years of Experience]([[https://img.shields.io/badge/Experience-2%20Years-blueviolet?style=for-the-badge&logo=react)](https://png.pngtree.com/png-clipart/20210530/original/pngtree-two-years-warranty-line-icon-vector-graphic-png-image_6373664.jpg)](https://github.com/yourusername](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyfOORBS2kklAIpy7am_t9UfLKsxmbtPs6Q&s))
-[![Status]([[https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge](https://www.liveagent.com/app/uploads/2020/11/logo-gmail.png)](https://www.liveagent.com/app/uploads/2020/11/logo-gmail.png))](mailto:ahmed3moha.2med@gmail.com)
+[![Years of Experience](https://img.shields.io/badge/Experience-2%20Years-blueviolet?style=for-the-badge&logo=react&logoColor=white)](https://github.com/ahmedmoham89ed)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedmoham89ed)
+[![Status](https://img.shields.io/badge/Status-Available_for_Work-success?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed3moha.2med@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ahmedmoham89ed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedmoham89ed)
 
 </div>
 
@@ -166,7 +169,7 @@ const ahmed = {
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedmoham89ed&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 ---
 
