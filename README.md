@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Mohamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Frontend+UI+Developer+%F0%9F%9A%80;2%2B+Years+of+Coding+Experience+%F0%9F%92%BB;React+%7C+Next.js+%7C+TypeScript+Expert+%E2%9A%A1;Building+Beautiful+Web+Experiences+%F0%9F%8E%A8;Clean+Code+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1D546D&center=true&vCenter=true&width=940&lines=Frontend+UI+Developer+%F0%9F%9A%80;2%2B+Years+of+Coding+Experience+%F0%9F%92%BB;React+%7C+Next.js+%7C+TypeScript+Expert+%E2%9A%A1;Building+Beautiful+Web+Experiences+%F0%9F%8E%A8;Clean+Code+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
