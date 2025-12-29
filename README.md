@@ -125,7 +125,7 @@ const ahmed = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://cdn.worldvectorlogo.com/logos/github-2.svg" alt="GitHub Stats" />
+  <img width="19%" src="https://cdn.worldvectorlogo.com/logos/github-2.svg" alt="GitHub Stats" />
 </div>
 
 <div align="center">
