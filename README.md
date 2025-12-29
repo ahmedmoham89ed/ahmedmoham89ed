@@ -122,19 +122,6 @@ const ahmed = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> GitHub Stats
-
-<div align="center">
-  <img width="19%" src="https://cdn.worldvectorlogo.com/logos/github-2.svg" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedmoham89ed&theme=tokyonight&utcOffset=2" alt="Productive Time" />
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmoham89ed&custom_title=Ahmed's%20Contribution%20Graph&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&area_color=58a6ff&title_color=58a6ff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect
 
