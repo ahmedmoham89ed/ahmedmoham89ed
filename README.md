@@ -151,7 +151,7 @@ const ahmed = {
 ### 📫 Reach Out
 
 [![Email](https://img.shields.io/badge/Email-ahmed3moha.2med%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ahmed3moha.2med@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahmed-el-shiekh-707a7133a/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
 </div>
@@ -169,7 +169,7 @@ const ahmed = {
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedmoham89ed&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="[https://github-readme-stats.vercel.app/api?username=ahmedmoham89ed&show_icons=true&theme=radical](https://p7.hiclipart.com/preview/31/119/666/github-logo-repository-computer-icons-github.jpg)" alt="GitHub Stats" />
 
 ---
 
