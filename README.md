@@ -111,7 +111,7 @@ const ahmed = {
 <br>React Query
 </td>
 <td align="center" width="96">
-<img src="https://www.framer.com/images/favicons/apple-touch-icon.png" width="48" height="48" alt="Framer Motion" />
+<img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="48" height="48" alt="Framer Motion" />
 <br>Framer Motion
 </td>
 </tr>
@@ -151,7 +151,7 @@ const ahmed = {
 ### 📫 Reach Out
 
 [![Email](https://img.shields.io/badge/Email-ahmed3moha.2med%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ahmed3moha.2med@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahmed-el-shiekh-707a7133a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
 </div>
@@ -169,7 +169,9 @@ const ahmed = {
 
 ---
 
-<img src="[https://github-readme-stats.vercel.app/api?username=ahmedmoham89ed&show_icons=true&theme=radical](https://p7.hiclipart.com/preview/31/119/666/github-logo-repository-computer-icons-github.jpg)" alt="GitHub Stats" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmoham89ed&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/ahmedmoham89ed)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmoham89ed&theme=radical&hide_border=true&background=0d1117)](https://github.com/ahmedmoham89ed)
 
 ---
 
