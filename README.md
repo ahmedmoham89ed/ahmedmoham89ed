@@ -1,4 +1,3 @@
-<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/78f94e4c-4a3a-4e4b-8b81-43a254119b7d" /><div align="center">
 
 # 👋 Welcome to My Digital Workshop
 
@@ -8,8 +7,8 @@
 
 *Crafting Beautiful Digital Experiences with Code*
 
-[![Years of Experience]([https://img.shields.io/badge/Experience-2%20Years-blueviolet?style=for-the-badge&logo=react)](https://github.com/yourusername](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyfOORBS2kklAIpy7am_t9UfLKsxmbtPs6Q&s))
-[![Status]([https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge](https://www.liveagent.com/app/uploads/2020/11/logo-gmail.png))](mailto:ahmed3moha.2med@gmail.com)
+[![Years of Experience]([[https://img.shields.io/badge/Experience-2%20Years-blueviolet?style=for-the-badge&logo=react)](https://png.pngtree.com/png-clipart/20210530/original/pngtree-two-years-warranty-line-icon-vector-graphic-png-image_6373664.jpg)](https://github.com/yourusername](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyfOORBS2kklAIpy7am_t9UfLKsxmbtPs6Q&s))
+[![Status]([[https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge](https://www.liveagent.com/app/uploads/2020/11/logo-gmail.png)](https://www.liveagent.com/app/uploads/2020/11/logo-gmail.png))](mailto:ahmed3moha.2med@gmail.com)
 
 </div>
 
